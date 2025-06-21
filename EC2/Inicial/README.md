@@ -4,10 +4,10 @@
 
 <h3>🛠️ Arquitetura e Tecnologias</h3>
 <p>A aplicação é servida por um servidor web (Apache) rodando na instância EC2, como na imagem abaixo:</p>
-<img src="./Inicial/img/arquitetura_01.png" >
+<img src="./img/arquitetura_01.png" >
 
 <h3>📁 Arquivos do Frontend</h3>
 <p>Na pasta front-end está o arquivo html utilizado.</p>
 
 <h3>Imagem da aplicação em deploy</h3>
-<img src="./Inicial/img/ex_1.png" >
+<img src="./img/ex_1.png" >
